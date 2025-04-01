@@ -154,7 +154,7 @@ def evaluate_model(y_true, y_predicted):
 
     return mse, r2_score
 
-def plot_regression(X_data, y_data, intercept, slope, filename="./linear_regression/linear_regression_pdm.png"):
+def plot_regression(X_data, y_data, intercept, slope, filename="./assests/plots/linear_regression_pdm.png"):
     """
     Generates and saves a plot of the original data and the regression line.
 

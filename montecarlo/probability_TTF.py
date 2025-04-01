@@ -26,7 +26,7 @@ RISK_THRESHOLD: float = 0.10 # 10% risk threshold for maintenance alert
 # Directory relative to the script location
 OUTPUT_PLOT_DIR: str = "montecarlo"
 # Filename for the output plot
-OUTPUT_PLOT_FILENAME: str = "montecarlo_simulation_results.png"
+OUTPUT_PLOT_FILENAME: str = "./assests/plots/montecarlo_simulation_results.png"
 # --- End of Configuration Constants ---
 
 
